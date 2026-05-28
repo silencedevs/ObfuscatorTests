@@ -1,5 +1,3 @@
--- Silence executor compatibility stress test
--- Designed to run both unobfuscated and obfuscated in Roblox executors.
 
 local results = {}
 
